@@ -1,0 +1,6 @@
+gte-py
+aiohttp
+websockets
+python-dotenv
+async-timeout
+numpy
